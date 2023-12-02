@@ -1,3 +1,13 @@
+
+## Screenshot
+
+![Image not found](https://github.com/anishredddy/blogs-prisma-postgresql/blob/main/Screenshot%20(7).png)
+
+![Image not found](https://github.com/anishredddy/blogs-prisma-postgresql/blob/main/Screenshot%20(8).png)
+
+![Image not found](https://github.com/anishredddy/blogs-prisma-postgresql/blob/main/Screenshot%20(9).png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
